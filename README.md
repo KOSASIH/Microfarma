@@ -48,7 +48,7 @@ Contributions to Microfarma are welcome! If you would like to contribute, please
 
 ## License
 
-Microfarma is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the software according to the terms of the license.
+Microfarma is released under the [MIT License](https://github.com/KOSASIH/Microfarma/blob/main/LICENSE). You are free to use, modify, and distribute the software according to the terms of the license.
 
 ## Support
 
