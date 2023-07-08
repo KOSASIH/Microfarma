@@ -58,6 +58,52 @@ For any questions, issues, or support related to Microfarma, please refer to the
 
 Microfarma is developed by a dedicated team of healthcare and technology professionals who are passionate about improving the pharmaceutical supply chain. We would like to express our gratitude to the open-source community for their invaluable contributions and inspiration.
 
+## System Requirements
+
+List the minimum system requirements for running Microfarma. Include details such as the operating system, hardware specifications, and software dependencies.
+
+## Deployment
+
+Provide step-by-step instructions on how to deploy Microfarma in a production or development environment. Include information on configuring the microservices, setting up databases, and any additional setup required.
+
+## Usage
+
+Explain how to use Microfarma from the perspective of different users. Provide examples and instructions for common tasks such as placing an order, managing inventory, and generating reports.
+
+## API Documentation
+
+If Microfarma exposes APIs for integration with other systems, provide comprehensive documentation for the available endpoints, request/response formats, and authentication mechanisms. Consider using tools like Swagger or Postman to generate and display API documentation.
+
+## Troubleshooting
+
+List common issues that users may encounter while using Microfarma and provide solutions or workarounds for each problem. Include information on how to troubleshoot common errors and where to find additional support.
+
+## Roadmap
+
+Outline the future development plans for Microfarma. Provide information on upcoming features, enhancements, and bug fixes. This gives users and contributors insights into the project's direction and encourages collaboration.
+
+## Changelog
+
+Document the changes and improvements made in each release of Microfarma. Include details about bug fixes, new features, and notable enhancements. This helps users and contributors keep track of the project's evolution.
+
+## Contributing Guidelines
+
+Provide guidelines for contributing to the Microfarma project. Include information on how to set up a development environment, coding standards, and the process for submitting pull requests. Specify any contribution guidelines or templates to follow.
+
+## Authors
+
+List the names or usernames of the core development team members who have contributed significantly to the Microfarma project. Provide links to their profiles or contact information.
+
+## Related Projects
+
+If there are any related projects or dependencies that Microfarma relies on or integrates with, mention them in this section. Provide links to their repositories or documentation for further reference.
+
+## Resources
+
+Include a list of external resources such as articles, tutorials, or documentation that can help users better understand Microfarma and its underlying technologies.
+
+Remember to update the README regularly to reflect any changes, updates, or new information about Microfarma. A well-maintained and comprehensive README can greatly benefit users, contributors, and the overall success of the project.
+
 # Microfarma
 
 This application was generated using JHipster 8.0.0-beta.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.0.0-beta.1](https://www.jhipster.tech/documentation-archive/v8.0.0-beta.1).
