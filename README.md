@@ -1,4 +1,4 @@
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Microfarma/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Microfarma/tree/main)
 
 # Microfarma - Healthcare Microservice Supply Chain System
 
