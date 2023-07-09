@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Microfarma/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Microfarma/tree/main)
+
 # Microfarma - Healthcare Microservice Supply Chain System
 
 Microfarma is a healthcare microservice supply chain system that aims to revolutionize the pharmaceutical industry by leveraging microservices architecture and modern technologies. It is designed to streamline and optimize the process of supplying pharmaceutical products, ensuring efficient distribution and delivery of medicines to healthcare providers and patients.
