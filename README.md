@@ -1,3 +1,4 @@
+[![DeepSource](https://app.deepsource.com/gh/KOSASIH/Microfarma.svg/?label=active+issues&show_trend=true&token=bpt5vXJxse-pFKEu-hVk883H)](https://app.deepsource.com/gh/KOSASIH/Microfarma/?ref=repository-badge)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Microfarma/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Microfarma/tree/main)
 
 # Microfarma - Healthcare Microservice Supply Chain System
